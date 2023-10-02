@@ -1,6 +1,6 @@
 # Ceng2030
 
-The lab source codes of the course CUHK Ceng2030 taken in 2023
+The lab source codes of the course CUHK Ceng2030 Fund. of Embedded Systems taken in 2023
 
 *Each lab using different software<br>
 
